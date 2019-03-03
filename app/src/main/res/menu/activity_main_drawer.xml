@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#283747"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:title="Rate This App" />
+    </group>
+    <item android:id="@+id/title1"
+        android:title="News Channels">
+        <menu>
+            <item
+                android:id="@+id/abc"
+                android:title="ABC News" />
+            <item
+                android:id="@+id/bbc"
+                android:title="BBC News" />
+            <item
+                android:id="@+id/cnbc"
+                android:title="CNBC News" />
+            <item
+                android:id="@+id/espn"
+                android:title="ESPN News" />
+            <item
+                android:id="@+id/google"
+                android:title="Google News" />
+            <item
+                android:id="@+id/news23"
+                android:title="News 24" />
+            <item
+                android:id="@+id/hindu"
+                android:title="The Hindu News" />
+            <item
+                android:id="@+id/times"
+                android:title="The Times Of India" />
+            <item
+                android:id="@+id/usa"
+                android:title="USA Today" />
+        </menu>
+    </item>
+
+    <item android:id="@+id/title2"
+        android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/about"
+                android:title="About Us" />
+            <item
+                android:id="@+id/contact"
+                android:title="Contact Us" />
+        </menu>
+    </item>
+
+</menu>

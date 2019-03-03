@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#1C2833">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="40sp"
+            android:textColor="#ffffff"
+            android:text="COUNTRIES :"
+            />
+        <TextView
+            android:id="@+id/text1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+            android:textColor="#ffffff"
+            android:text="🇦🇷  Argentina"
+            />
+        <TextView
+            android:id="@+id/text2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+            android:textColor="#ffffff"
+            android:text="🇦🇺  Australia"
+            />
+        <TextView
+            android:id="@+id/text3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+            android:textColor="#ffffff"
+            android:text="🇦🇹  Austria"/>
+        <TextView
+            android:id="@+id/text4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+            android:textColor="#ffffff"
+            android:text="🇧🇪  Belgium"/>
+        <TextView
+            android:id="@+id/text5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+
+            android:textColor="#ffffff"
+            android:text="🇧🇷  Brazil"/>
+        <TextView
+            android:id="@+id/text6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+            android:textColor="#ffffff"
+            android:text="🇧🇬  Bulgaria"/>
+        <TextView
+            android:id="@+id/text7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+            android:textColor="#ffffff"
+            android:text="🇨🇦  Canada"
+            />
+        <TextView
+            android:id="@+id/text8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+            android:textColor="#ffffff"
+            android:text="🇨🇳  China"/>
+        <TextView
+            android:id="@+id/text9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+            android:textColor="#ffffff"
+            android:text="🇨🇴  Colombia"/>
+        <TextView
+            android:id="@+id/text10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+            android:textColor="#ffffff"
+            android:text="🇨🇺  Cuba"/>
+        <TextView
+            android:id="@+id/text11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+
+            android:textColor="#ffffff"
+            android:text="🇨🇿  CzechRepublic"/>
+        <TextView
+            android:id="@+id/text12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+
+            android:textColor="#ffffff"
+            android:text="🇪🇬  Egypt"/>
+        <TextView
+            android:id="@+id/text13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+
+            android:textColor="#ffffff"
+            android:text="🇫🇷  France"/>
+        <TextView
+            android:id="@+id/text14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+
+            android:textColor="#ffffff"
+            android:text="🇩🇪  Germany"/>
+        <TextView
+            android:id="@+id/text15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+
+            android:textColor="#ffffff"
+            android:text="🇬🇷  Greece"/>
+        <TextView
+            android:id="@+id/text16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+
+            android:textColor="#ffffff"
+            android:text="🇭🇰  HongKong"/>
+        <TextView
+            android:id="@+id/text17"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+
+            android:textColor="#ffffff"
+            android:text="🇭🇺  Hungary"/>
+        <TextView
+            android:id="@+id/text18"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+
+            android:textColor="#ffffff"
+            android:text="🇮🇳  India"/>
+        <TextView
+            android:id="@+id/text19"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+
+            android:textColor="#ffffff"
+            android:text="🇮🇩  Indonesia"/>
+        <TextView
+            android:id="@+id/text20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+
+            android:textColor="#ffffff"
+            android:text="🇮🇪  Ireland"/>
+        <TextView
+            android:id="@+id/text21"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+
+            android:textColor="#ffffff"
+            android:text="🇮🇱  Israel"/>
+        <TextView
+            android:id="@+id/text22"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+
+            android:textColor="#ffffff"
+            android:text="🇮🇹  Italy"/>
+        <TextView
+            android:id="@+id/text23"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+
+            android:textColor="#ffffff"
+            android:text="🇯🇵  Japan"/>
+        <TextView
+            android:id="@+id/text24"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+
+            android:textColor="#ffffff"
+            android:text="🇱🇻  Latvia"/>
+        <TextView
+            android:id="@+id/text25"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+
+            android:textColor="#ffffff"
+            android:text="🇱🇹  Lithuania"/>
+        <TextView
+            android:id="@+id/text26"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+
+            android:textColor="#ffffff"
+            android:text="🇲🇾  Malaysia"/>
+        <TextView
+            android:id="@+id/text27"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+
+            android:textColor="#ffffff"
+            android:text="🇲🇽  Mexico"/>
+        <TextView
+            android:id="@+id/text28"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+
+            android:textColor="#ffffff"
+            android:text="🇲🇦  Morocco"/>
+        <TextView
+            android:id="@+id/text29"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+
+            android:textColor="#ffffff"
+            android:text="🇳🇱  Netherlands"/>
+        <TextView
+            android:id="@+id/text30"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+
+            android:textColor="#ffffff"
+            android:text="🇳🇿  New Zealand"/>
+        <TextView
+            android:id="@+id/text31"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+
+            android:textColor="#ffffff"
+            android:text="🇳🇬  Nigaria"/>
+        <TextView
+            android:id="@+id/text32"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+
+            android:textColor="#ffffff"
+            android:text="🇳🇴  Norway"/>
+        <TextView
+            android:id="@+id/text33"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+            android:textColor="#ffffff"
+            android:text="🇵🇭  Philippines"/>
+        <TextView
+            android:id="@+id/text34"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+
+            android:textColor="#ffffff"
+            android:text="🇵🇱  Poland"/>
+        <TextView
+            android:id="@+id/text35"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+
+            android:textColor="#ffffff"
+            android:text="🇵🇹  Portugal"/>
+        <TextView
+            android:id="@+id/text36"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+
+            android:textColor="#ffffff"
+            android:text="🇷🇴  Romania"/>
+        <TextView
+            android:id="@+id/text37"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+            android:textColor="#ffffff"
+            android:text="🇷🇺  Russia"/>
+        <TextView
+            android:id="@+id/text38"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+
+            android:textColor="#ffffff"
+            android:text="🇸🇦  Saudi Arabia"/>
+        <TextView
+            android:id="@+id/text39"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+
+            android:textColor="#ffffff"
+            android:text="🇷🇸  Serbia"/>
+        <TextView
+            android:id="@+id/text40"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+
+            android:textColor="#ffffff"
+            android:text="🇸🇬  Singapore"/>
+        <TextView
+            android:id="@+id/text41"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+
+            android:textColor="#ffffff"
+            android:text="🇸🇰  Solvakia"/>
+        <TextView
+            android:id="@+id/text42"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+
+            android:textColor="#ffffff"
+            android:text="🇸🇮  Solvania"/>
+        <TextView
+            android:id="@+id/text43"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+            android:textColor="#ffffff"
+            android:text="🇿🇦  South Africa"/>
+        <TextView
+            android:id="@+id/text44"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+            android:textColor="#ffffff"
+            android:text="🇰🇷  South Korea"/>
+        <TextView
+            android:id="@+id/text45"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+            android:textColor="#ffffff"
+            android:text="🇸🇪  Sweden"/>
+        <TextView
+            android:id="@+id/text46"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+            android:layout_width="match_parent"
+            android:textColor="#ffffff"
+            android:text="🇨🇭  Switzerland"/>
+        <TextView
+            android:id="@+id/text47"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+
+            android:textColor="#ffffff"
+            android:text="🇹🇼  Taiwan"/>
+        <TextView
+            android:id="@+id/text48"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+
+            android:textColor="#ffffff"
+            android:text="🇹🇭  Thailand"/>
+
+        <TextView
+            android:id="@+id/text49"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+            android:layout_width="match_parent"
+            android:textColor="#ffffff"
+            android:text="🇹🇷  Turkey"/>
+        <TextView
+            android:id="@+id/text50"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+            android:textColor="#ffffff"
+            android:text="🇦🇪  UAE"/>
+        <TextView
+            android:id="@+id/text51"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+            android:textColor="#ffffff"
+            android:text="🇺🇦  Ukraine"/>
+        <TextView
+            android:id="@+id/text52"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+            android:textColor="#ffffff"
+            android:text="🇬🇧 UnitedKingdom"/>
+        <TextView
+            android:id="@+id/text53"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+            android:textColor="#ffffff"
+            android:text="🇺🇸  United States"/>
+        <TextView
+            android:id="@+id/text54"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="35sp"
+            android:textColor="#ffffff"
+            android:text="🇻🇪  Venezuela"/>
+    </LinearLayout>
+</ScrollView>
