@@ -7,10 +7,37 @@ This app is fetching data from the restapi known as Newsapi.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 Here I have my used own apikey so i prefer that you must use your own apikey.
 This app will show news from worldwide news channels like BBC News, CNBC News, ESPN News, Google News and many more.
 
 ![screenshot2](https://user-images.githubusercontent.com/37297748/53695730-2c353380-3de5-11e9-8aaf-0f5d16a038a9.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -23,9 +50,38 @@ countries so that you can watch news of any country as you want.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 We have also added a sub-category section in which user can select any type of news he wants to watch like Science, business, technology and many more. 
 
 ![screenshot4](https://user-images.githubusercontent.com/37297748/53695744-60105900-3de5-11e9-9410-a1e0e43c84f1.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
